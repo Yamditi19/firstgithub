@@ -1,4 +1,4 @@
 # firstgithub
 my first repository in github
 <br>
-Author-Yamini sahu
+Author-Yamini sahu(Sai College)
